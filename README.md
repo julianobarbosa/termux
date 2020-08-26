@@ -1,4 +1,10 @@
 # termux
+
+## Install Python
+```console
+pkg install Python
+```
+
 termux tips
 
 
